@@ -11,3 +11,5 @@ This is an attempt at estimating how many people are served by every hospital in
 | -87.698277 | 41.855215 | SAINT ANTHONY HOSPITAL | CHICAGO |  IL | 151 | -999 | 151 |    1955130.0 |   0 | 0 | 0 | 0 | 0 |  -87.69827696299996,41.85521453400003 |
 | -95.366148 | 29.748116 | ST.  JOSEPH  MEDICAL  CENTER | HOUSTON |   TX | 744 | -999 | 744  | 2137434.0 |  0 | 0 | 0 | 0 | 0 |  -95.36614813899996,29.74811612700005 |
  
+plot
+![hospital coverage map](https://github.com/bkitano/hospitalScrape/raw/master/plot.png)
